@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipykernel = "*"
+setuptools = "*"
+pyprojroot = "*"
+pathlib = "*"
+pandas = "*"
+numpy = "*"
+plotly = "*"
+monitor-gender-based-violence = {editable = true, path = "."}
+
+[dev-packages]
+
+[requires]
+python_version = "*"
