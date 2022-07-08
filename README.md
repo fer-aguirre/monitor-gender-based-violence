@@ -1,4 +1,4 @@
-# Monitor Gender Based Violence
+# Monitor Gender Based Violence 🖥️
 Monitoring gender-based violence on Twitter.
 
 ## Directory Structure
